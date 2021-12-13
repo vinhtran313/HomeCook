@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "881485335422",
+    "project_id": "iron-rex-323015",
+    "storage_bucket": "iron-rex-323015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881485335422:android:7972fbe75ea3fad8ea012f",
+        "android_client_info": {
+          "package_name": "com.qav.homecook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881485335422-750r30menk91vns4a89d2uusqveepskp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qav.homecook",
+            "certificate_hash": "4ea9f7aee682b0705c6028f9fa83959b8e4d4d1e"
+          }
+        },
+        {
+          "client_id": "881485335422-oantbnaak8jsmsa0quhc4p7dnndi91v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcBs7cYB9oXAezMnLy_khoTjx1aBIKHME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881485335422-oantbnaak8jsmsa0quhc4p7dnndi91v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
